@@ -57,8 +57,8 @@
      *   - consumer_secret  Twitter API secret
      */
     $credentials = array(
-        'consumer_key' => 'GzFUgivQyKdwW0s5ot2zOrPZ2',
-        'consumer_secret' => 'gXxm5vRKpZpuKYPMeWyqgZzuiSswq5ND4ttuXilfkXVXWezYuY',
+        'consumer_key' => 'xxx',
+        'consumer_secret' => 'xxx',
     );
 
     /**
@@ -78,7 +78,7 @@
         'screen_name'     => 'e100ss',
         'count'           => 5,
         //'exclude_replies' => true,
-        //'max_id'          => '982518485929549825',
+        //'max_id'          => 'xxx',
     );
 
     /**
