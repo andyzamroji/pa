@@ -1,0 +1,15 @@
+{
+    "name": "library/twitteroauth",
+    "description": "Library Twitter",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "andyzamroji",
+            "email": "andyzamroji@gmail.com"
+        }
+    ],
+    "require": {
+        "ricardoper/twitteroauth": "2.*"
+    }
+}
